@@ -1,0 +1,20 @@
+<main class="photo-page">
+
+  <div class="title-container">
+    <h3 class="champison-name">{{name}}</h3>
+    <div>
+      {{description}}
+    </div>
+  </div>
+
+  <div class="photo-card-container">
+
+    {{#each photos}}
+      {{> photoCard}}
+    {{/each}}
+
+  </div>
+
+</main>
+
+{{> addPhotoButtonModal}}

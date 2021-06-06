@@ -1,0 +1,95 @@
+{
+  "starter items": {
+    "name": "Starter items",
+    "description": "Starter items description",
+    "photos": [
+      {
+        "caption": "Starter items",
+        "url": "/images/Starter item.png"
+      }
+    ],
+    "_locals": {}
+  },
+  "potions": {
+    "name": "Potions",
+    "description": "Potions description",
+    "photos": [
+      {
+        "caption": "Potions items",
+        "url": "/images/Potions.png"
+      }
+    ],
+    "_locals": {}
+  },
+  "trinkets": {
+    "name": "Trinkets",
+    "description": "Trinkets description",
+    "photos": [
+      {
+        "caption": "Trinkets items",
+        "url": "/images/Trinkets.png"
+      }
+    ]
+  },
+  "distributed": {
+    "name": "Distributed items",
+    "description": "Distributed items description",
+    "photos": [
+      {
+        "caption": "Distributed items",
+        "url": "/images/Distributed items.png"
+      }
+    ]
+  },
+  "boots": {
+    "name": "Boots",
+    "description": "boots description",
+    "photos": [
+      {
+        "caption": "boots items",
+        "url": "/images/boots.png"
+      }
+    ],
+    "_locals": {}
+  },
+  "basic items": {
+    "name": "Baisc items",
+    "description": "Basic items description",
+    "photos": [
+      {
+        "caption": "Basic items items",
+        "url": "/images/basic items.png"
+      }
+    ]
+  },
+  "epic": {
+    "name": "Epic items",
+    "description": "Epic items description",
+    "photos": [
+      {
+        "caption": "Epic items",
+        "url": "/images/Epic items.png"
+      }
+    ]
+  },
+  "legendary": {
+    "name": "Legendary items",
+    "description": "legendary items description",
+    "photos": [
+      {
+        "caption": "Legendary items",
+        "url": "/images/Legendary items.png"
+      }
+    ]
+  },
+  "mystic": {
+    "name": "Mystic items",
+    "description": "Mystic items description",
+    "photos": [
+      {
+        "caption": "Mystic items",
+        "url": "/images/Mystic items.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+body {
+  font-family: 'Time New Roman', sans-serif;
+  margin: 0;
+  background-color: #dadada;
+}
+
+header {
+  background-color: black;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #03a9f4;
+}
+
+a:hover {
+  color: #0c719e;
+}
+
+.site-title {
+  margin: 0;
+  padding: 30px;
+  color: #e0dbdb;
+  text-align: center;
+}
+
+.navbar {
+  margin: 10px 15px;
+  font-size: 22px;
+  background-color: #d6d6d5;
+}
+
+.navlist {
+  margin: 0;
+}
+
+.navitem {
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+
+.navitem:hover {
+  background-color: rgba(187, 186, 185, 0.699);
+  border-radius: 10px;
+}
+
+.navitem a {
+  display: inline-block;
+  color: #454545;
+  padding: 10px 20px;
+}
+
+.navitem.right {
+  float: right;
+}
+
+.photo-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.photo-card {
+  flex: 1 32%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+}
+
+.person-photo-img {
+  max-height: 300px;
+}
+
+.error-page {
+  text-align: center;
+}
+
+.error-page h2 {
+  font-weight: 100;
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+.error-page h3 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+/* .home-page .icon {
+  display: inline-block;
+  margin: 40px;
+  font-size: 192px;
+  color: #454545;
+} */
+
+.title-container {
+  margin: 15px 25px 20px;
+  padding: 25px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.title-container h1 {
+  margin: 20px 0;
+  font-size: 64x;
+  font-weight: 400;
+}
+
+.title-container h2 {
+  margin: 10px 0;
+  font-size: 48px;
+  font-weight: 400;
+}
+
+.title-container h3 {
+  margin: 10px 0;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.title-container p{
+  margin: 10px 0;
+  font-size: 32px;
+  font-weight: 250;
+}
+
+.person-list-block {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.person-card {
+  margin: 10px;
+  padding: 18px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+
+.person-card a {
+  color: rgb(82, 80, 80);
+}
+
+#add-photo-button {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius: 30px;
+  font-size: 30px;
+  background-color: #4755f7;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.25);
+  transition: all 0.25s ease;
+}
+
+#add-photo-button:hover,
+#add-photo-button:focus {
+  right: 27px;
+  bottom: 27px;
+  height: 66px;
+  width: 66px;
+  border-radius: 33px;
+  font-size: 36px;
+}
+
+#add-photo-button:focus {
+  outline: none;
+}
+
+/*
+ * Modal stuff
+ */
+#modal-backdrop {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+#add-photo-modal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1010;
+  overflow: scroll;
+}
+
+.hidden {
+  display: none;
+}
+
+.action-button {
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  background-color: #000;
+  border: 1px solid #ababab;
+  border-radius: 5px;
+  font-weight: lighter;
+  cursor: pointer;
+}
+
+.action-button:hover {
+  background-color: #e78477;
+  border-color: #333;
+}
+
+.modal-dialog {
+  width: auto;
+  max-width: 600px;
+  min-width: 350px;
+  min-height: 300px;
+  margin: 40px auto;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.modal-header {
+  position: relative;
+  padding: 10px 20px;
+}
+
+.modal-header h3 {
+  margin: 0;
+  font-size: 28px;
+}
+
+#modal-close {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  font-size: 24px;
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.photo-input-element {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.photo-input-element > label {
+  font-weight: 600;
+  flex: 1 75px;
+  margin-right: 10px;
+}
+
+.photo-input-element input {
+  flex: 6 200px;
+  padding: 8px;
+  font-size: 20px;
+  border: 1px solid #aaa;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 10px 20px 10px;
+}
+
+#modal-cancel,
+#modal-accept {
+  margin-right: 20px;
+}
+
+#modal-cancel {
+  color: #333;
+  background-color: #fff;
+}
+
+#modal-cancel:hover {
+  background-color: #eee;
+}
+
+/*search box*/
+.navbar-search {
+  float: right;
+  margin-right: 20px;
+  padding: 0;
+  line-height: 38px;
+}
+
+.home-image-block {
+  width: 95%;
+  margin: 20px auto;
+}
+.home-image {
+  width: 100%;
+  height: 100%;
+}
+
+.champison-name {
+    text-align: center;
+    color: rgb(71, 71, 71);
+}
+
+.search-block {
+  width: 100%;
+  position: relative;
+  /* margin: 10px; */
+  /* padding: 5px; */
+}
+
+.search-box {
+    width: 95%;
+    position: relative;
+    margin: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.search-input {
+    border-radius: 500rem;
+    width: 99%;
+    border: 1px solid rgba(34,36,38,.15);
+    text-align: left;
+    outline: none;
+    color: rgba(0,0,0,.1);
+    padding: 1.1em 0em 1.1em 1em;
+    opacity: 0.85;
+    transition: opacity .3s ease;
+}
+
+.search-icon {
+  cursor: pointer;
+  position: absolute;
+    line-height: 3em;
+    text-align: center;
+    top: 0;
+    right: 0;
+    margin: 0;
+    height: 100%;
+    width: 2.67142857em;
+    opacity: .5;
+    border-radius: 0 .28571429rem .28571429rem 0;
+    transition: opacity .3s ease;
+}
+.search-input:focus {
+  color: rgba(0,0,0,.8);
+  opacity: 1;
+  
+}
+.search-input:focus~i.search-icon {
+    opacity: 1;
+}

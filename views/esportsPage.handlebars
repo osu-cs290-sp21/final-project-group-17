@@ -1,0 +1,12 @@
+<main class="esports-page">
+
+  {{> searchBar}}
+  <div class="person-list-block">
+    {{#each esports}}
+    <div class="person-card" id="{{name}}">
+      <a href="/esports/{{@key}}">{{name}}</a>
+    </div>
+    {{/each}}
+  </div>
+  
+</main>

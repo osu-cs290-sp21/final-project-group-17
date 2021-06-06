@@ -1,0 +1,94 @@
+{
+  "c9": {
+    "name": "C9",
+    "description": "C9 description",
+    "photos": [
+      {
+        "caption": "C9",
+        "url": "/images/ C9.png"
+      }
+    ],
+    "_locals": {}
+  },
+  "tsm": {
+    "name": "TSM",
+    "description": "TSM description",
+    "photos": [
+      {
+        "caption": "TSM",
+        "url": "/images/TSM.png"
+      }
+    ],
+    "_locals": {}
+  },
+  "fnatic": {
+    "name": "Fnatic",
+    "description": "Fnatic description",
+    "photos": [
+      {
+        "caption": "Fnatic",
+        "url": "/images/Fnatic.png"
+      }
+    ]
+  },
+  "t1": {
+    "name": "T1",
+    "description": "T1 description",
+    "photos": [
+      {
+        "caption": "T1",
+        "url": "/images/T1.png"
+      }
+    ]
+  },
+  "edg": {
+    "name": "EDG",
+    "description": "EDG description",
+    "photos": [
+      {
+        "caption": "EDG",
+        "url": "/images/EDG.png"
+      }
+    ]
+  },
+  "jd": {
+    "name": "JD",
+    "description": "JD description",
+    "photos": [
+      {
+        "caption": "JD",
+        "url": "/images/JD .png"
+      }
+    ]
+  },
+  "geng": {
+    "name": "Gen G",
+    "description": "Gen G description",
+    "photos": [
+      {
+        "caption": "Gen G",
+        "url": "/images/GenG.png"
+      }
+    ]
+  },
+  "kt": {
+    "name": "KT Rolster",
+    "description": "KT Rolster description",
+    "photos": [
+      {
+        "caption": "KT Rolster",
+        "url": "/images/KT.png"
+      }
+    ]
+  },
+  "lgd": {
+    "name": "LGD",
+    "description": "LGD description",
+    "photos": [
+      {
+        "caption": "LGD",
+        "url": "/images/LGD.png"
+      }
+    ]
+  }
+}

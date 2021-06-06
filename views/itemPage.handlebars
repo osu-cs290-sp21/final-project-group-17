@@ -1,0 +1,12 @@
+<main class="item-page">
+
+  {{> searchBar}}
+  <div class="person-list-block">
+    {{#each item}}
+    <div class="person-card" id="{{name}}">
+      <a href="/item/{{@key}}">{{name}}</a>
+    </div>
+    {{/each}}
+  </div>
+  
+</main>
