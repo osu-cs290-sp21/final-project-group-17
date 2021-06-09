@@ -113,6 +113,174 @@
       }
     ]
   },
+  "ahri": {
+    "name": "Ahri",
+    "description": "Ahri description",
+    "photos": [
+      {
+        "caption": "Ahri#1",
+        "url": "/images/ahri1.jpg"
+      },
+      {
+        "caption": "Ahri#2",
+        "url": "/images/ahri2.jpg"
+      }
+    ]
+  },
+  "aatrox": {
+    "name": "Aatrox",
+    "description": "Attorx description",
+    "photos": [
+      {
+        "caption": "Aatrox#1",
+        "url": "/images/aatrox1.jpg"
+      },
+      {
+        "caption": "Aatrox#2",
+        "url": "/images/aatrox2.jpg"
+      }
+    ]
+  },
+  "lulu": {
+    "name": "Lulu",
+    "description": "Lulu description",
+    "photos": [
+      {
+        "caption": "Lulu#1",
+        "url": "/images/lulu1.jpg"
+      },
+      {
+        "caption": "Lulu#2",
+        "url": "/images/lulu2.webp"
+      }
+    ]
+  },
+  "talon": {
+    "name": "Talon",
+    "description": "Talon description",
+    "photos": [
+      {
+        "caption": "Talon#1",
+        "url": "/images/talon1.jpg"
+      },
+      {
+        "caption": "Talon#2",
+        "url": "/images/talon2.jpg"
+      }
+    ]
+  },
+  "irelia": {
+    "name": "Irelia",
+    "description": "Irelia description",
+    "photos": [
+      {
+        "caption": "Irelia#1",
+        "url": "/images/irelia1.jpg"
+      },
+      {
+        "caption": "Irelia#2",
+        "url": "/images/irelia2.jpg"
+      }
+    ]
+  },
+  "ornn": {
+    "name": "Ornn",
+    "description": "Ornn description",
+    "photos": [
+      {
+        "caption": "Ornn#1",
+        "url": "/images/ornn1.jpg"
+      },
+      {
+        "caption": "Ornn#2",
+        "url": "/images/ornn2.jpg"
+      }
+    ]
+  },
+  "fiora": {
+    "name": "Fiora",
+    "description": "Fiora description",
+    "photos": [
+      {
+        "caption": "Fiora#1",
+        "url": "/images/fiora1.jpg"
+      },
+      {
+        "caption": "Fiora#2",
+        "url": "/images/fiora2.jpg"
+      }
+    ]
+  },
+  "riven": {
+    "name": "Riven",
+    "description": "Riven description",
+    "photos": [
+      {
+        "caption": "Riven#1",
+        "url": "/images/riven1.jpg"
+      },
+      {
+        "caption": "Riven#2",
+        "url": "/images/riven2.jpg"
+      }
+    ]
+  },
+  "ekko": {
+    "name": "Ekko",
+    "description": "Ekko description",
+    "photos": [
+      {
+        "caption": "Ekko#1",
+        "url": "/images/ekko1.jpg"
+      },
+      {
+        "caption": "Ekko#2",
+        "url": "/images/ekko2.jpg"
+      }
+    ]
+  },
+  "galio": {
+    "name": "Galio",
+    "description": "Galio description",
+    "photos": [
+      {
+        "caption": "Galio#1",
+        "url": "/images/galio1.jpg"
+      },
+      {
+        "caption": "Galio#2",
+        "url": "/images/galio2.jpg"
+      }
+    ]
+  },
+  "yasuo": {
+    "name": "Yasuo",
+    "description": "Yasuo description",
+    "photos": [
+      {
+        "caption": "Yasuo#1",
+        "url": "/images/yasuo1.jpg"
+      },
+      {
+        "caption": "Yasuo#2",
+        "url": "/images/yasuo2.jpg"
+      }
+    ]
+  },
+  "nasus": {
+    "name": "Nasus",
+    "description": "Nasus description",
+    "photos": [
+      {
+        "caption": "Nasus#1",
+        "url": "/images/nasus1.jpg"
+      },
+      {
+        "caption": "Nasus#2",
+        "url": "/images/nasus2.jpg"
+      }
+    ]
+  },
   "jinx": {
     "name": "Jinx",
     "description": "Jinx description",
