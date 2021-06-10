@@ -1,7 +1,7 @@
 {
   "starter items": {
     "name": "Starter items",
-    "description": "Starter items description",
+    "description": "Starter items are items classified as such by Riot games. They usually are items that cannot be used to build other items and that have themselves no components. They are distinct from basic items, wich can be used to build other items.",
     "photos": [
       {
         "caption": "Starter items",
@@ -12,7 +12,7 @@
   },
   "potions": {
     "name": "Potions",
-    "description": "Potions description",
+    "description": "Potions items are one-time use items that disappear or lose effect after the first use, and can be used again only by buying them again. Most consumable items can be stacked up to a limit on one item slot, after which they are placed in a new item slot. For some consumables, if bought when no item slots are available, the consumable item is immediately used. Using a consumable does not break Guerrilla  stealth. You can only have one type of healing potion in your inventory at a time",
     "photos": [
       {
         "caption": "Potions items",
@@ -23,7 +23,7 @@
   },
   "trinkets": {
     "name": "Trinkets",
-    "description": "Trinkets description",
+    "description": "Trinkets are a category of items introduced in Season 4 and the preseason. They are placed in the trinket slot, which is independent from the player's main inventory and can only hold trinket items.Using a trinket does not break Guerrilla  stealth.",
     "photos": [
       {
         "caption": "Trinkets items",
@@ -33,7 +33,7 @@
   },
   "distributed": {
     "name": "Distributed items",
-    "description": "Distributed items description",
+    "description": "Items that are automatically obtained by the player without needing to purchase them, either from the start of the game or through some mechanic.",
     "photos": [
       {
         "caption": "Distributed items",
@@ -43,7 +43,7 @@
   },
   "boots": {
     "name": "Boots",
-    "description": "boots description",
+    "description": "There are seven kinds of boots with different attributes. Different boots have different attributes, and players can only have one.",
     "photos": [
       {
         "caption": "boots items",
@@ -54,7 +54,7 @@
   },
   "basic items": {
     "name": "Baisc items",
-    "description": "Basic items description",
+    "description": "Basic items are items classified as such by Riot games. They are usually items without components that are components of other items. This is distinct from starter items, wich usually are not the component of any other item.",
     "photos": [
       {
         "caption": "Basic items items",
@@ -64,7 +64,7 @@
   },
   "epic": {
     "name": "Epic items",
-    "description": "Epic items description",
+    "description": "Epic items are items classified as such by Riot games. They are usually items with components that are still components of other items.",
     "photos": [
       {
         "caption": "Epic items",
@@ -74,7 +74,7 @@
   },
   "legendary": {
     "name": "Legendary items",
-    "description": "legendary items description",
+    "description": "Legendary items are items classified as such by Riot games. They are items that cannot be used to build other items. They are distinct from mythic items, as these have a mythic passive, while legendary items don't.",
     "photos": [
       {
         "caption": "Legendary items",
@@ -84,7 +84,7 @@
   },
   "mystic": {
     "name": "Mystic items",
-    "description": "Mystic items description",
+    "description": "Mythic items are items classified as such by Riot games. They are finished items that cannot be used to build other items and they all have a mythic passive. They are distinct from legendary items, which also are finished items but don't have a mythic passive. Only one Mythic item can be purchased at a time.",
     "photos": [
       {
         "caption": "Mystic items",
