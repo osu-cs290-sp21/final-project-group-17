@@ -1,7 +1,7 @@
 {
   "annie": {
     "name": "Annie",
-    "description": "Annie Description",
+    "description": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts, though she eventually learned to control these “playful tricks.” Her favorite includes the summoning of her beloved teddy bear, Tibbers, as a fiery protector. Lost in the perpetual innocence of childhood, Annie wanders the dark forests, always looking for someone to play with.",
     "photos": [
       {
         "caption": "Annie#1",
@@ -16,7 +16,7 @@
   },
   "zed": {
     "name": "Zed",
-    "description": "Zed Description",
+    "description": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.",
     "photos": [
       {
         "caption": "Zed#1",
@@ -31,7 +31,7 @@
   },
   "sona": {
     "name": "Sona",
-    "description": "Sona Description",
+    "description": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a Demacian taboo. Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.",
     "photos": [
       {
         "caption": "Sona#1",
@@ -45,7 +45,7 @@
   },
   "janna": {
     "name": "Janna",
-    "description": "Janna Description",
+    "description": "Armed with the power of Runeterra's gales, Janna is a mysterious, elemental wind spirit who protects the dispossessed of Zaun. Some believe she was brought into existence by the pleas of Runeterra's sailors who prayed for fair winds as they navigated treacherous waters and braved rough tempests. Her favor and protection has since been called into the depths of Zaun, where Janna has become a beacon of hope to those in need. No one knows where or when she will appear, but more often than not, she's come to help.",
     "photos": [
       {
         "caption": "Janna#1",
@@ -59,7 +59,7 @@
   },
   "amumu": {
     "name": "Amumu",
-    "description": "Amumu Description",
+    "description": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction.",
     "photos": [
       {
         "caption": "amumu#1",
@@ -73,7 +73,7 @@
   },
   "teemo": {
     "name": "Teemo",
-    "description": "Teemo description",
+    "description": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
     "photos": [
       {
         "caption": "teemo#1",
@@ -87,7 +87,7 @@
   },
   "jax": {
     "name": "Jax",
-    "description": "Jax description",
+    "description": "Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained. As magic now rises in the world, this slumbering threat stirs once more, and Jax roams Valoran, wielding the last light of Icathia and testing all warriors he meets to see if any are strong enough to stand beside him...",
     "photos": [
       {
         "caption": "jax#1",
@@ -101,7 +101,7 @@
   },
   "lee sin": {
     "name": "Lee sin",
-    "description": "Lee sin description",
+    "description": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
     "photos": [
       {
         "caption": "Lee sin#1",
@@ -115,7 +115,7 @@
   },
   "ahri": {
     "name": "Ahri",
-    "description": "Ahri description",
+    "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature, Ahri retains a sense of empathy as she receives flashes of memory from each soul she consumes.",
     "photos": [
       {
         "caption": "Ahri#1",
@@ -129,7 +129,7 @@
   },
   "aatrox": {
     "name": "Aatrox",
-    "description": "Attorx description",
+    "description": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.",
     "photos": [
       {
         "caption": "Aatrox#1",
@@ -143,7 +143,7 @@
   },
   "lulu": {
     "name": "Lulu",
-    "description": "Lulu description",
+    "description": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this mundane, physical realm. While others might consider her magic at best unnatural, and at worst dangerous, she believes everyone could use a touch of enchantment.",
     "photos": [
       {
         "caption": "Lulu#1",
@@ -157,7 +157,7 @@
   },
   "talon": {
     "name": "Talon",
-    "description": "Talon description",
+    "description": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire's command, assassinating enemy leaders, captains, and heroes… as well as any Noxian foolish enough to earn the scorn of their masters.",
     "photos": [
       {
         "caption": "Talon#1",
@@ -171,7 +171,7 @@
   },
   "irelia": {
     "name": "Irelia",
-    "description": "Irelia description",
+    "description": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland.",
     "photos": [
       {
         "caption": "Irelia#1",
@@ -185,7 +185,7 @@
   },
   "ornn": {
     "name": "Ornn",
-    "description": "Ornn description",
+    "description": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.",
     "photos": [
       {
         "caption": "Ornn#1",
@@ -199,7 +199,7 @@
   },
   "fiora": {
     "name": "Fiora",
-    "description": "Fiora description",
+    "description": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in the wake of a scandal that nearly destroyed them. House Laurent's reputation was sundered, but Fiora bends her every effort to restore her family's honor and return them to their rightful place among the great and good of Demacia.",
     "photos": [
       {
         "caption": "Fiora#1",
@@ -213,7 +213,7 @@
   },
   "riven": {
     "name": "Riven",
-    "description": "Riven description",
+    "description": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven's faith in her homeland was tested and ultimately broken. Having severed all ties to the empire, she now seeks to find her place in a shattered world, even as rumors abound that Noxus itself has been reforged...",
     "photos": [
       {
         "caption": "Riven#1",
@@ -227,7 +227,7 @@
   },
   "ekko": {
     "name": "Ekko",
-    "description": "Ekko description",
+    "description": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Zero Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this freedom, when there's a threat to his friends he'll do anything to defend them. To outsiders, Ekko seems to achieve the impossible the first time, every time.",
     "photos": [
       {
         "caption": "Ekko#1",
@@ -241,7 +241,7 @@
   },
   "galio": {
     "name": "Galio",
-    "description": "Galio description",
+    "description": "Outside the gleaming city of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the most of his time, savoring the thrill of a fight and the rare honor of defending his countrymen. But his triumphs are always bittersweet, for the magic he destroys is also his source of reanimation, and each victory leaves him dormant once again.",
     "photos": [
       {
         "caption": "Galio#1",
@@ -255,7 +255,7 @@
   },
   "yasuo": {
     "name": "Yasuo",
-    "description": "Yasuo description",
+    "description": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master's true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade.",
     "photos": [
       {
         "caption": "Yasuo#1",
@@ -269,7 +269,7 @@
   },
   "nasus": {
     "name": "Nasus",
-    "description": "Nasus description",
+    "description": "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient empire of Shurima to greatness for many centuries. After the fall of the empire, he went into self-imposed exile, becoming little more than a legend. Now that the ancient city of Shurima has risen once more, he has returned, determined to ensure it never falls again.",
     "photos": [
       {
         "caption": "Nasus#1",
@@ -283,7 +283,7 @@
   },
   "jinx": {
     "name": "Jinx",
-    "description": "Jinx description",
+    "description": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes",
     "photos": [
       {
         "caption": "Jinx#1",
