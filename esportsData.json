@@ -1,7 +1,7 @@
 {
   "c9": {
     "name": "C9",
-    "description": "C9 description",
+    "description": "Cloud9 (C9) is a North American esports team formed by the former roster of Quantic Gaming following its dissolution. Aside from League of Legends, the organization also has divisions for DotA 2, COD, Hearthstone, Super Smash Bros, Counter Strike: Global Offensive, Overwatch, and Vainglory.",
     "photos": [
       {
         "caption": "C9",
@@ -12,7 +12,7 @@
   },
   "tsm": {
     "name": "TSM",
-    "description": "TSM description",
+    "description": "TSM (previously known as Team SoloMid) is a North American esports team, created around the community website SoloMid.Net by brothers Andy Reginald Dinh and  Dan Dinh in September 2009. Since June 2021, the organization has been known as TSM FTX in non-Riot Games esports, but is not permitted to use that name in League of Legends or VALORANT due to sponsorship restrictions.",
     "photos": [
       {
         "caption": "TSM",
@@ -23,7 +23,7 @@
   },
   "fnatic": {
     "name": "Fnatic",
-    "description": "Fnatic description",
+    "description": "Fnatic is a professional esports organization consisting of players from around the world across a variety of games. On March 14, 2011, Fnatic entered the League of Legends scene with the acquisition of myRevenge. Fnatic is one of the strongest European teams since the early days of competitive League of Legends, having been the champion of the Riot Season 1 Championship.",
     "photos": [
       {
         "caption": "Fnatic",
@@ -33,7 +33,7 @@
   },
   "t1": {
     "name": "T1",
-    "description": "T1 description",
+    "description": "T1 is a Korean team owned by SK telecom CS T1 Co., Ltd., the joint venture between SK Telecom and Comcast Spectacor. They were previously known as SK Telecom T1.",
     "photos": [
       {
         "caption": "T1",
@@ -43,7 +43,7 @@
   },
   "edg": {
     "name": "EDG",
-    "description": "EDG description",
+    "description": "EDward Gaming is a Chinese professional esports organization. EDward Gaming first entered professional League of Legends in September 2013. EDG secured a spot in the 2014 LPL Spring split by acquiring the slot of LMQ, who had left to compete in the 2014 NA Challenger Series. EDG's acquisitions were U, former Positive Energy AD Carry NaMei, World Elite players ClearLove and fzzf, and Koro1 as their top laner.",
     "photos": [
       {
         "caption": "EDG",
@@ -53,7 +53,7 @@
   },
   "jd": {
     "name": "JD",
-    "description": "JD description",
+    "description": "JD Gaming (Chinese: 京东电子竞技俱乐部) is a Chinese esports organization. They are also known as Jingdong Gaming. JD Gaming formed in May of 2017 when they acquired the roster and LPL spot of QG Reapers. The team's first showing was at the 2017 Demacia Cup but it wasn't particularly good as they placed 9th-12th after an 0-2 loss to LGD Gaming. In the 2017 LPL Summer Season JD Gaming finished 5th in Group B with 6 wins and 11 losses which eliminated them from playoff contention. They also placed 2nd at the National Electronic Sports Tournament 2017.",
     "photos": [
       {
         "caption": "JD",
@@ -63,7 +63,7 @@
   },
   "geng": {
     "name": "Gen G",
-    "description": "Gen G description",
+    "description": "Gen.G is a Korean multi-gaming team owned by KSV eSports Korea Inc.. They were previously known as KSV eSports.",
     "photos": [
       {
         "caption": "Gen G",
@@ -72,8 +72,8 @@
     ]
   },
   "kt": {
-    "name": "KT Rolster",
-    "description": "KT Rolster description",
+    "name": "KT Rolster"'
+   "description": "KT Rolster (Korean: KT 롤스터) is a Korean professional gaming organization owned by KT Corporation. Before the Korean restructuring, KT fielded two sister teams, KT Rolster Arrows and KT Rolster Bullets which were created by the organization on October 10, 2012.[1] It originally began as StarCraft: Brood War team KTF Magics and included among its stars a number of players who also became involved with League of Legends - coaches YellOw (Xenics Storm) and Reach (NaJin e-mFire) and casters/streamers Kim Dong Soo (Garimto) and Kang Min (Nal_Ra).",
     "photos": [
       {
         "caption": "KT Rolster",
@@ -83,7 +83,7 @@
   },
   "lgd": {
     "name": "LGD",
-    "description": "LGD description",
+    "description": "LGD Gaming is a Chinese esports organization that first picked up a League of Legends team in early 2012. They also sponsor teams in a number of other esports titles.",
     "photos": [
       {
         "caption": "LGD",
