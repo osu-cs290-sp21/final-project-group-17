@@ -5,7 +5,4 @@ This is a game assistant about League of Legends.
 When you type in the hero's name (like the names below: Annie, Zed, Sona, Janna, Amumu, Teemo, Jax, Lee sin, Ahri, Aatrox, Lulu, Talon, Irelia, Ornn, Fiora, Riven, Ekko, Galio, Yasuo,ect.), an explanation of the hero will appear. It also includes some pictures to help you identify the hero.
 
 people:
-Jiehui Huang
-Ning jianbo
-Jingxuan Chen
-Yang Wang
+Jiehui Huang(huangjie8563), Jianbo Ning(Jianbo-Ning), Jingxuan Chen(hharedd), Yang Wang
